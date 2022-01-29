@@ -1,8 +1,8 @@
 # Olá, seja bem-vindo(a) 👋
 
-Sou apaixonado por tecnologia desde pequeno! Vivia nas Lan Houses jogando e fazendo meus trabalhos de escola. Aprendi a formatar PCs na raça, reparando sistemas e drivers corrompidos pelo terminal. Muito Baidu no sangue até aprender a não clicar no lugar errado! 👨‍🔬
+Apaixonado por tecnologia desde garoto! Vivia nas Lan Houses jogando e fazendo meus trabalhos de escola. Aprendi a formatar PCs na raça, reparando sistemas e drivers corrompidos pelo terminal. Muito Baidu no sangue até aprender a não clicar no lugar errado! 👨‍🔬
 
-Tive meu primeiro contato com programação pelo Game Maker, baixei por curiosidade e fiz algumas bagunças nele e daí minha vontade de aprender a programar foi só crescendo! Tenho interesse na área de Jogos.
+Tive meu primeiro contato com programação pelo Game Maker, baixei por curiosidade e fiz algumas bagunças nele e daí minha vontade de aprender a programar foi só crescendo! Tenho interesse na área de Jogos, mas não para por aí!
 
 Ainda estou preparando o terreno, espere coisas legais por aqui! 😄
 
