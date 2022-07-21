@@ -26,6 +26,8 @@
 		<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
 		<!-- IDE -->
 		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE"/>
+		<!-- VCS -->
+		<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
 	</a>
 </div>
 
@@ -47,5 +49,5 @@ Images of Social Networks
 https://shields.io/category/social
 
 Colors and Icons
-https://simpleicons.org/?q=pyth
+https://simpleicons.org/
 -->
