@@ -16,15 +16,17 @@
 <h1 align="center">🧱 Languages and Tools 🔨</h1>
 
 <div style="display: inline-block;" align="center";>
-	<!-- Back-end -->
-	<img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"/>
-	<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-	<!-- Front-end -->
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-	<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
-	<!-- IDE -->
-	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE"/>
+	<a href="https://github.com/GracilianoOG/GracilianoOG" title="Hello there! Take a look around ;)">
+		<!-- Back-end -->
+		<img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"/>
+		<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+		<!-- Front-end -->
+		<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+		<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+		<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
+		<!-- IDE -->
+		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE"/>
+	</a>
 </div>
 
 <br>
