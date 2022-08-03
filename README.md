@@ -23,11 +23,14 @@
 		<!-- Front-end -->
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 		<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-		<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
+		<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=141310" alt="Javascript"/>
 		<!-- IDE -->
 		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE"/>
 		<!-- VCS -->
-		<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+		<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="I know GIT"/>
+		<!-- Tools -->
+		<img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+		<img src="https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 	</a>
 </div>
 
@@ -36,6 +39,7 @@
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracilianoOG&theme=radical&layout=compact" />
+		<img src="https://github-readme-stats.vercel.app/api?username=GracilianoOG&theme=radical&hide_title=true" />
 	</a>
 </div>
 
