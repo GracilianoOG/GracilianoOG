@@ -1,8 +1,8 @@
 <h1 align="center">💻 Welcome to my profile! 🎮</h1>
 
 <div style="display: inline-block;" align="center";>
-	<a href="https://www.linkedin.com/in/gabrielgmbarros"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="My LinkedIn" title="Connect with me!"/></a>
-	<a href="https://github.com/GracilianoOG"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&labelColor=black" alt="My Github" title="My Github, just in case ;)"/></a>
+	<a href="https://www.linkedin.com/in/gabrielgmbarros"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn account" title="Connect with me!"/></a>
+	<a href="https://github.com/GracilianoOG"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github account" title="Follow me!"/></a>
 </div>
 
 <br>
