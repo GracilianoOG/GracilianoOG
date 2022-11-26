@@ -38,7 +38,7 @@
 
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracilianoOG&theme=radical&layout=compact" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracilianoOG&theme=radical&layout=compact&exclude_repo=ordem-de-servico-tcc-faetec" />
 		<img src="https://github-readme-stats.vercel.app/api?username=GracilianoOG&theme=radical&hide_title=true&hide_rank=true" />
 	</a>
 </div>
