@@ -1,8 +1,9 @@
 <h1 align="center">💻 Welcome to my profile! 🎮</h1>
 
-<div style="display: inline-block;" align="center";>
+<div style="display: inline-block;" align="center">
 	<a href="https://www.linkedin.com/in/gabrielgmbarros"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn account" title="Connect with me!"/></a>
 	<a href="https://github.com/GracilianoOG"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github account" title="Follow me!"/></a>
+	<a href="https://gracilianoog.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-491F59?style=for-the-badge&logo=homeAdvisor&logoColor=white" alt="Portfolio" title="Visit my site!"/></a>
 </div>
 
 <br>
@@ -13,27 +14,21 @@
 
 <br>
 
-<h1 align="center">🧱 Languages and Tools 🔨</h1>
+<h1 align="center">👨🏻‍💻 I'm familiar with 📚</h1>
 
-<div style="display: inline-block;" align="center";>
+<div style="display: inline-block;" align="center">
 	<a href="https://github.com/GracilianoOG/GracilianoOG" title="Hello there! Take a look around ;)">
-		<!-- Back-end -->
-		<img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"/>
-		<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-		<!-- Front-end -->
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 		<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-		<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=141310" alt="Javascript"/>
-		<!-- IDE -->
-		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE"/>
-		<!-- VCS -->
-		<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="I know GIT"/>
-		<!-- Tools -->
+		<img src="https://img.shields.io/badge/JAVASCRIPT-FF8700?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
 		<img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+		<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE"/>
 		<img src="https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 	</a>
 </div>
 
+<br>
 <br>
 
 <div align="center">
