@@ -2,8 +2,8 @@
 
 <div style="display: inline-block;" align="center">
   <a href="https://www.linkedin.com/in/gabrielgmbarros"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn account" title="Connect with me!"/></a>
-  <a href="https://www.freecodecamp.org/GracilianoOG"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="LinkedIn account" title="FreeCodeCamp Rocks!"/></a>
-  <a href="https://codepen.io/GracilianoOG"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="LinkedIn account" title="FreeCodeCamp Rocks!"/></a>
+  <a href="https://www.freecodecamp.org/GracilianoOG"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp account" title="FreeCodeCamp Rocks!"/></a>
+  <a href="https://codepen.io/GracilianoOG"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen account" title="My little projects and tests."/></a>
   <a href="https://gracilianoog.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-491F59?style=for-the-badge&logo=homeAdvisor&logoColor=white" alt="Portfolio" title="Visit my site!"/></a>
 </div>
 
