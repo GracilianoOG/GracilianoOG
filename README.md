@@ -1,20 +1,16 @@
+![Image](https://github.com/user-attachments/assets/7f3ea190-b1e1-48bb-a98a-10c3b997406c)
+
 # 👨🏻‍💻 Welcome to my profile!
 
 I'm a Brazilian developer looking for an opportunity in the tech industry. I speak Portuguese (native), English (intermediate), and I'm currently studying Spanish. If you're interested in reaching out, please do so by checking out my contact info below.
 
-## 🔖 Skills
+## ✨ Technologies
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF8700?style=for-the-badge&logo=javascript&logoColor=white "JavaScript")
-![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white "Markdown")
-![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white "GIT")
-![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black "Linux")
-![Visual Studio Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white "Visual Studio Code")
+[![Toolset](https://skillicons.dev/icons?i=react,styledcomponents,ts,js,sass,css,html,markdown,git,linux,vscode)](https://skillicons.dev)
 
-## 📌 Links
+## 📌 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgmbarros "LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=naver&logoColor=white)](https://www.linkedin.com/in/gabrielgmbarros "LinkedIn")
 [![freeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/GracilianoOG "freeCodeCamp")
 [![CodePen](https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GracilianoOG "CodePen")
 [![Portfolio](https://img.shields.io/badge/Portfolio-491F59?style=for-the-badge&logo=homeAdvisor&logoColor=white)](https://gracilianoog.github.io/portfolio/ "Portfolio")
